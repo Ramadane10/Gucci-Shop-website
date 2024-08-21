@@ -148,7 +148,7 @@ svg {
 .clothes {
   
   border-radius: 10px;
-  padding: 0.5rem;
+  padding: 2rem;
   padding-bottom: 2.5rem;
   box-shadow: 0.1rem 0 1rem rgba(0, 0, 0, 0.2);
   transition: transform 0.2s ease-in-out;
@@ -215,7 +215,8 @@ svg {
   /* background-color: black; */
   display: flex;
   gap: 2rem;
-  padding: 2rem 3rem 0 3rem;
+  padding-top: 1rem;
+  padding-left: 8rem;
   flex-wrap: wrap;
 }
 
